@@ -8,52 +8,42 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>奋起直追，才有美好的未来！</description>
-    <pubDate>Wed, 26 Apr 2017 08:32:13 GMT</pubDate>
+    <pubDate>Thu, 27 Apr 2017 00:59:45 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>这是我的第一个blog</title>
-      <link>http://jiangfengxin.club/2017/04/26/first/</link>
-      <guid>http://jiangfengxin.club/2017/04/26/first/</guid>
-      <pubDate>Wed, 26 Apr 2017 08:25:32 GMT</pubDate>
+      <title></title>
+      <link>http://jiangfengxin.club/2017/04/27/blog001/</link>
+      <guid>http://jiangfengxin.club/2017/04/27/blog001/</guid>
+      <pubDate>Wed, 26 Apr 2017 16:03:43 GMT</pubDate>
       <description>
       
-        &lt;p&gt;-&lt;br&gt;date: 2017-04-26 16:25:32&lt;br&gt;-&lt;/p&gt;
-&lt;p&gt;我我你水电费水电费 &lt;/p&gt;
-
+        &lt;hr&gt;
+&lt;p&gt;#2017 mac下使用hexo搭建github博客&lt;/p&gt;
+&lt;p&gt;##吐槽&lt;br&gt;不吐不快。网上有太多伪教程，踩了不少坑，然后填坑。终于让我找到两份靠谱的教程，希望给后来人少点弯路！&lt;/p&gt;
+&lt;p&gt;##教程&lt;/p&gt;
+&lt;p&gt;&lt;1&gt; 二选一&lt;/1&gt;&lt;/p&gt;
+&lt;p&gt;&lt;
       
       </description>
       
-      <content:encoded><![CDATA[<p>-<br>date: 2017-04-26 16:25:32<br>-</p>
-<p>我我你水电费水电费 </p>
+      <content:encoded><![CDATA[<hr>
+<p>#2017 mac下使用hexo搭建github博客</p>
+<p>##吐槽<br>不吐不快。网上有太多伪教程，踩了不少坑，然后填坑。终于让我找到两份靠谱的教程，希望给后来人少点弯路！</p>
+<p>##教程</p>
+<p><1> 二选一</1></p>
+<p><a href="http://www.jianshu.com/p/e99ed60390a8#" target="_blank" rel="external">20分钟教你使用hexo搭建github博客</a></p>
+<p><a href="http://www.jianshu.com/p/4eaddcbe4d12#" target="_blank" rel="external">5分钟 搭建免费个人博客</a></p>
+<p>备注：如果嫌弃打开自己的blog慢，可以参考下面</p>
+<p><a href="http://www.jianshu.com/p/97c8a94c002f" target="_blank" rel="external">使用Coding.net来搭建基于Hexo的免费博客</a></p>
+<p><2> 关于nexT主题具体设置</2></p>
+<p><a href="http://www.jianshu.com/p/5973c05d7100" target="_blank" rel="external">【干货】2个小时教你hexo博客添加评论、打赏、RSS等功能</a></p>
+<p>备注：</p>
+<p>在Hexo根目录下有一个以_config.yml命名的文件（下称站点配置文件）</p>
+<p>在NexT根目录下有一个同样名称为_config.yml（主题配置文件），为了区分hexo根目录下的_config.yml。</p>
 ]]></content:encoded>
       
-      <comments>http://jiangfengxin.club/2017/04/26/first/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://jiangfengxin.club/2017/04/26/hello-world/</link>
-      <guid>http://jiangfengxin.club/2017/04/26/hello-world/</guid>
-      <pubDate>Wed, 26 Apr 2017 05:09:40 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content:encoded>
-      
-      <comments>http://jiangfengxin.club/2017/04/26/hello-world/#disqus_thread</comments>
+      <comments>http://jiangfengxin.club/2017/04/27/blog001/#disqus_thread</comments>
     </item>
     
   </channel>
