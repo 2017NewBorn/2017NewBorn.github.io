@@ -8,28 +8,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>奋起直追，才有美好的未来！</description>
-    <pubDate>Thu, 27 Apr 2017 00:59:45 GMT</pubDate>
+    <pubDate>Thu, 27 Apr 2017 01:06:12 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title></title>
+      <title>2017 mac下使用hexo搭建github博客</title>
       <link>http://jiangfengxin.club/2017/04/27/blog001/</link>
       <guid>http://jiangfengxin.club/2017/04/27/blog001/</guid>
       <pubDate>Wed, 26 Apr 2017 16:03:43 GMT</pubDate>
       <description>
       
-        &lt;hr&gt;
-&lt;p&gt;#2017 mac下使用hexo搭建github博客&lt;/p&gt;
-&lt;p&gt;##吐槽&lt;br&gt;不吐不快。网上有太多伪教程，踩了不少坑，然后填坑。终于让我找到两份靠谱的教程，希望给后来人少点弯路！&lt;/p&gt;
+        &lt;p&gt;##吐槽&lt;br&gt;不吐不快。网上有太多伪教程，踩了不少坑，然后填坑。终于让我找到两份靠谱的教程，希望给后来人少点弯路！&lt;/p&gt;
 &lt;p&gt;##教程&lt;/p&gt;
 &lt;p&gt;&lt;1&gt; 二选一&lt;/1&gt;&lt;/p&gt;
-&lt;p&gt;&lt;
+&lt;p&gt;&lt;a href=&quot;http://www.jianshu.com/p/e99ed6
       
       </description>
       
-      <content:encoded><![CDATA[<hr>
-<p>#2017 mac下使用hexo搭建github博客</p>
-<p>##吐槽<br>不吐不快。网上有太多伪教程，踩了不少坑，然后填坑。终于让我找到两份靠谱的教程，希望给后来人少点弯路！</p>
+      <content:encoded><![CDATA[<p>##吐槽<br>不吐不快。网上有太多伪教程，踩了不少坑，然后填坑。终于让我找到两份靠谱的教程，希望给后来人少点弯路！</p>
 <p>##教程</p>
 <p><1> 二选一</1></p>
 <p><a href="http://www.jianshu.com/p/e99ed60390a8#" target="_blank" rel="external">20分钟教你使用hexo搭建github博客</a></p>
